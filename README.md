@@ -15,7 +15,7 @@
 2. [ICOIN'24] Efficient Adaptive Batching of DNN Inference Services for Improved Latency\
 Osama Khan, **Junyeol Yu**, Yeonjae Kim, and Euiseong Seo, January 2024 [[paper]](https://ieeexplore.ieee.org/abstract/document/10572152)
 3. [MASCOTS'24] Cloud Reamer: Enabling Inference Services in Training Clusters\
-Osama Khan, Gwanjong Park, **Junyeol Yu** and Euiseong Seo, October 2024
+Osama Khan, Gwanjong Park, **Junyeol Yu** and Euiseong Seo, October 2024 [[paper]](https://ieeexplore.ieee.org/document/10786549)
 <!--
 **JunyeolYu/JunyeolYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
