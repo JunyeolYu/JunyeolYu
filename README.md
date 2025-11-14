@@ -1,7 +1,7 @@
 ## Junyeol Yu (유준열) 👋
 
 ### Contact 📫
-- Homepage: [http://csl.skku.edu/People/JYYU](http://csl.skku.edu/People/JYYU)
+- Homepage: [https://junyeolyu.github.io/](https://junyeolyu.github.io/)
 - E-mail: junyeol.yu@skku.edu
 
 ### Research Area 🔭
